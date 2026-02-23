@@ -1,1 +1,1 @@
-# AI_Learning_Assignment
+# AI_Learning_Assistant
